@@ -12,4 +12,8 @@ class View {
   }
 }
 
+const view = new View 
+console.log(view);
+
+
 module.exports = View;
