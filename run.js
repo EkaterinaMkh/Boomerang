@@ -1,5 +1,5 @@
-// Основной файл.
-// Запускает игру.
+const readline = require('readline');
+
 const Game = require('./src/Game');
 
 // Инициализация игры с настройками.
